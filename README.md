@@ -1,6 +1,54 @@
 # nawah-gamefi
  Empowering women and youth through gaming. A Web3 integration plan using Nawah Token for Play-to-Earn, NFTs, and cultural storytelling
-[README_Nawah_GameFi (1).md](https://github.com/user-attachments/files/20970207/README_Nawah_GameFi.1.md)
-[README.md](https://github.com/user-attachments/files/20970206/README.md)
-[roadmap.md](https://github.com/user-attachments/files/20970205/roadmap.md)
+
+
+# ں› £ Nawah GameFi – خارطة طريق التطوير (2025–2028)
+
+تسلط خريطة الطريق هذه الضوء على مراحل تطوير تكامل Nawah GameFi، من المفهوم إلى التنفيذ الكامل.
+
+---
+
+## المرحلة الأولى: إعداد البنية التحتية (الربع الثالث - الربع الرابع من عام 2025)
+
+- إنشاء العقود الذكية (BEP-20 و NFT)
+- تصميمات الشخصيات الأولية غير القابلة للاستبدال (على سبيل المثال "نور الحكمة")
+- âœ… تكامل محفظة Web3 (MetaMask / WalletConnect)
+- إنشاء مستودع GitHub والتوثيق
+- تخطيط النموذج الأولي للعبة صغيرة
+
+---
+
+## المرحلة الثانية: دمج الألعاب (الربع الأول - الربع الثاني من عام 2026)
+
+- إطلاق لعبة Wisdom Quest® - وهي لعبة تعليمية صغيرة على Web3
+- رمز نواه™ كمكافأة داخل اللعبة وعملة شراء
+- التوجيه الممتع إلى Web3 للشباب والنساء
+- سوق داخل اللعبة لعناصر NFT
+- جمع التعليقات والتكرار
+
+---
+
+## ں”چ المرحلة الثالثة: التوسع الاستراتيجي (الربع الثالث 2026 – الربع الثاني 2027)
+
+- شراكات مع مطوري الألعاب المستقلين
+- مكون إضافي متعدد المنصات لإضافة رمز Nawah إلى الألعاب الموجودة
+- مسابقات للفنانين ورواة القصص لتوسيع نطاق شخصيات NFT
+- بطولات الألعاب مع جوائز Nawah Token
+
+---
+
+## المرحلة الرابعة: النظام البيئي الكامل لـ Web3 (2028)
+
+- إطلاق النموذج الأولي لـ "Nawah Metaverse"
+- دعم عبر السلسلة (Ethereum / BNB / Polygon)
+- سوق محتوى NFT الذي أنشأه اللاعبون
+- لوحة معلومات تحليلية في الوقت الفعلي (على السلسلة + مقاييس اللعبة)
+
+---
+
+## ں“§ اتصل
+
+للاستفسارات حول التطوير أو التعاون أو الاستثمار:  
+البريد الإلكتروني: gamefi@nawah.io
+ 
 [Nawah_Token_GameFi_Presentation (1).pptx](https://github.com/user-attachments/files/20970204/Nawah_Token_GameFi_Presentation.1.pptx)
