@@ -51,4 +51,4 @@
 للاستفسارات حول التطوير أو التعاون أو الاستثمار:  
 البريد الإلكتروني: gamefi@nawah.io
  
-[Nawah_Token_GameFi_Presentation (1).pptx](https://github.com/user-attachments/files/20970204/Nawah_Token_GameFi_Presentation.1.pptx)
+[ 
