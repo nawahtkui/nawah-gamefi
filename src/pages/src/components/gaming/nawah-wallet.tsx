@@ -246,28 +246,4 @@ export const NawahWallet: React.FC = () => {
               className="flex justify-between items-center border-b border-gray-700 pb-2"
               title={`${getTransactionLabel(tx.type)} - ${tx.description}`}
             >
-              <div className="flex items-center gap-3">
-                {getTransactionIcon(tx.type)}
-                <div className="text-sm">
-                  <p>{tx.description}</p>
-                  <p className="text-xs text-gray-400">
-                    {new Date(tx.timestamp).toLocaleDateString("ar")}{" "}
-                    {(tx.from && `من: ${tx.from}`) || (tx.to && `إلى: ${tx.to}`)}
-                  </p>
-                </div>
-              </div>
-              <p
-                className={`font-mono ${
-                  tx.type === "send" ? "text-red-400" : "text-green-400"
-                }`}
-              >
-                {tx.type === "send" ? "-" : "+"}
-                {tx.amount.toFixed(2)} NAWAH
-              </p>
-            </li>
-          ))}
-        </ul>
-      </section>
-    </div>
-  );
-};
+              <div className="flex items-center
